@@ -1,100 +1,108 @@
-🐾 Aviso de Privacidad
+# 🐾 Aviso de Privacidad
 
-PerruPaw — Estética Canina a Domicilio
+**PerruPaw — Estética Canina a Domicilio**
 
-📄 Introducción
+---
 
-En PerruPaw estamos comprometidos con la protección de los datos personales que nuestros clientes nos proporcionan para poder brindar servicios profesionales de estética canina a domicilio.
+## 📘 Introducción
 
-Este Aviso de Privacidad describe:
+En **PerruPaw** estamos comprometidos con la protección de los datos personales que nuestros clientes nos proporcionan al solicitar servicios de estética canina a domicilio.
 
-Qué datos recopilamos
+Este documento explica:
 
-Para qué los utilizamos
+* Qué datos recopilamos
+* Por qué los necesitamos
+* Cómo los utilizamos
+* Cómo protegemos tu información
+* Cómo puedes solicitar su eliminación
 
-Cómo los protegemos
+---
 
-Cómo puedes solicitar su eliminación
+## 📌 1. Datos personales que recopilamos
 
-📌 1. Datos personales que recopilamos
+Recopilamos únicamente la información necesaria para prestar el servicio de forma correcta y segura:
 
-Recopilamos únicamente la información necesaria para prestar nuestro servicio:
+* **Nombre del responsable de la mascota**
+  Para identificar al cliente y gestionar citas.
 
-Nombre del responsable de la mascota
-Para identificar al cliente y gestionar adecuadamente las citas.
+* **Nombre de la mascota**
+  Para personalizar los servicios.
 
-Nombre de la mascota
-Para personalizar los servicios.
+* **Número de contacto**
+  Utilizado para agendar, confirmar, modificar o cancelar citas.
 
-Número de contacto
-Para confirmar, modificar o cancelar citas y enviar seguimiento.
+* **Domicilio**
+  Necesario para planificación de rutas y logística del servicio a domicilio.
 
-Domicilio
-Necesario para la logística del servicio a domicilio.
+* **Fotografía de la mascota**
+  Utilizada para cotizaciones y esquemas personalizados de precios.
 
-Fotografía de la mascota
-Para cotizaciones y esquemas personalizados de precios.
+---
 
-🎯 2. Finalidad del uso de los datos
+## 🎯 2. Finalidad del uso de los datos
 
-Los datos se utilizan exclusivamente para:
+Tu información se utiliza exclusivamente para:
 
-Gestión y administración de citas
+* Gestión y administración de citas
+* Confirmaciones, recordatorios e información de seguimiento
+* Cancelaciones o modificaciones de citas
+* Planeación de rutas y logística operativa
+* Elaboración de cotizaciones personalizadas
+* Control interno del servicio
 
-Confirmaciones, modificaciones y cancelaciones
+No se realiza ningún uso ajeno al servicio contratado.
 
-Planeación de rutas y logística
+---
 
-Envío de cotizaciones personalizadas
+## 🔒 3. Transferencia de datos
 
-Seguimiento de servicios
+**No compartimos tu información con terceros**, bajo ninguna circunstancia, salvo obligación legal.
 
-🔒 3. Transferencia de datos
+---
 
-No compartimos información con terceros bajo ninguna circunstancia.
+## 🛡️ 4. Seguridad y protección de la información
 
-🛡️ 4. Seguridad de la información
+Aplicamos medidas administrativas y operativas para:
 
-Aplicamos medidas administrativas y operativas para garantizar la confidencialidad, integridad y uso adecuado de los datos personales.
+* Asegurar la confidencialidad de tus datos
+* Prevenir accesos no autorizados
+* Garantizar el uso adecuado de la información
 
-👤 5. Derechos del titular
+Tu información solo es manejada por personal autorizado.
+
+---
+
+## 👤 5. Derechos del titular
 
 Puedes solicitar en cualquier momento:
 
-Acceso a tus datos
+* Acceso a tu información personal
+* Corrección o actualización
+* Eliminación total de tus datos
 
-Rectificación o actualización
+Sin costos, sin condiciones y sin restricciones.
 
-Eliminación total de tu información
+---
 
-🗑️ 6. Procedimiento para solicitar la eliminación de datos
+## 🗑️ 6. Procedimiento para solicitar la eliminación de datos
 
-Puedes solicitar la eliminación de tus datos personales por cualquiera de estas vías:
+Puedes solicitar la eliminación mediante cualquiera de estos métodos:
 
-Método 1: Menú informativo
+### 🟦 **Método 1: A través del menú informativo**
 
-Llamar al número +52 33 1764 5188
+1. Llamar al número **+52 33 1764 5188**
+2. Seleccionar **“Solicitar Información”**
+3. Seleccionar **“Aviso de privacidad”**
+4. Seleccionar **“Eliminar mis datos”**
 
-Presionar “Solicitar Información”
+### 🟩 **Método 2: Por WhatsApp**
 
-Seleccionar “Aviso de privacidad”
+Enviar un mensaje a **+52 33 1147 29645** indicando tu intención de eliminar tu información.
 
-Seleccionar “Eliminar mis datos”
+⏱️ *Tu solicitud será atendida en un plazo no mayor a **30 días naturales**.*
 
-Método 2: WhatsApp
+---
 
-Enviar un mensaje al +52 33 1147 29645 indicando que deseas eliminar tus datos.
+## 🕒 7. Disponibilidad
 
-⏱️ La eliminación se realizará en un plazo no mayor a 30 días naturales.
-
-🕒 7. Disponibilidad del servicio
-
-Recibimos solicitudes los 7 días de la semana, las 24 horas del día.
-
-🔄 8. Cambios al aviso de privacidad
-
-Este documento puede actualizarse en cualquier momento. La versión vigente estará siempre disponible en este mismo enlace.
-
-📬 Contacto
-
-Si tienes dudas sobre el manejo de tu información, puedes contactarnos directamente por los medios mencionados arriba.
+Los métodos de eliminac
