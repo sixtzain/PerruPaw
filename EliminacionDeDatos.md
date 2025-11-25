@@ -40,7 +40,7 @@ Una vez completado el proceso, **los datos se eliminarán permanentemente**.
 ### 🟩 Opción 2: Solicitud vía WhatsApp
 
 Envíanos un mensaje al número:
-📱 **+52 33 1147 29645**
+📱 **+52 33 1142 9645**
 
 Incluye únicamente algo como:
 
@@ -76,6 +76,6 @@ El proceso siempre estará accesible para tu tranquilidad.
 Si tienes alguna duda sobre este proceso, puedes escribirnos o llamarnos:
 
 * Teléfono: **+52 33 1764 5188**
-* WhatsApp: **+52 33 1147 29645**
+* WhatsApp: **+52 33 1142 9645**
 
 Estamos para ayudarte. 💚🐶
